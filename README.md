@@ -14,7 +14,7 @@
 
 ## 2. 資料集來源
 
-本程式碼會自動從 UCI Machine Learning Repository 下載資料，不需手動下載 CSV 檔。
+程式碼會自動從 UCI Machine Learning Repository 下載資料，不需手動下載 CSV 檔。
 
 1.  **Zoo Data Set**
     - **來源**: [UCI Zoo Dataset](https://archive.ics.uci.edu/ml/machine-learning-databases/zoo/zoo.data)
