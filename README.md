@@ -26,7 +26,7 @@
 
 ## 3. 如何運行程式碼 
 
-### 在 Google Colab 上執行 (推薦)
+### 在 Google Colab 上執行
 
 ## 實驗參數設定 (Parameters)
 程式碼預設參數如下，可於 `if __name__ == "__main__":`區塊中調整：
